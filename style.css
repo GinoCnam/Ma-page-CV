@@ -1,0 +1,39 @@
+#banniere {
+
+background-image:url("banniere.png");
+height: 200px;
+width: 40%;
+margin: auto;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:yellow;
+    text-align:center
+}
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    color: lightblue;
+    padding:0px;
+    margin: 0px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+    p{
+        font-size: 1em;
+        line-height: 1.5em;
+    }
+
+a{
+    text-decoration: none;
+    color: lightgray
+}
